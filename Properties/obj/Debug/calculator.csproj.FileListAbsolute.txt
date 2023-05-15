@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\calculator\calculator\obj\Debug\calculator.pdb
